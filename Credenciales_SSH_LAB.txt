@@ -1,0 +1,4 @@
+Usuario: botlab
+Contraseña: aMZfqjrmvbxVxLThzqIukpZ7
+Permiso: administrador (nivel 15)
+Uso: laboratorio Metro Valparaíso; misma cuenta en los 44 equipos Cisco.

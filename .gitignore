@@ -1,0 +1,8 @@
+*.gns3project
+*.image
+*.bin
+*.zip
+*.qcow2
+*.vmdk
+*.pem
+*.key
